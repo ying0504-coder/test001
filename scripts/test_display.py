@@ -21,4 +21,3 @@ class Test_Display():
         allure.attach('描述', '我是测试步骤001的描述～～～')
         self.display_page.display_input("hello")
         self.display_page.display_back_click()
-        print1
